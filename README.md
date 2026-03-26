@@ -8,7 +8,7 @@ Once you have been through a few iterations of the process you will have the fou
 
 > This process is for beginners. It is not a linear sequence of steps that you should standardise as a best practice. Domain-Driven Design is an evolutionary design process which necessitates continuous iteration on all aspects of knowledge and design.
 
-![DDD Starter Modelling Process](resources/ddd-starter-modeling-circular.svg) 
+![DDD Starter Modelling Process](resources/ddd-crew-modeling-process--cirlces-feed-each-other.svg) 
 
 __Navigation:__
 
@@ -239,7 +239,7 @@ As a starting point, we recommend [Core Domain Charts](https://github.com/ddd-cr
 #### Tools/Resources
 
 - [Core Domain Charts](https://github.com/ddd-crew/core-domain-charts)
-- [Purpose Alignment Model](https://www.informit.com/articles/article.aspx?p=1384195&seqNum=2)
+- [Purpose Alignment Model](https://web.archive.org/web/20241202160527/https://www.informit.com/articles/article.aspx?p=1384195&seqNum=2)
 - [Wardley Mapping](https://learnwardleymapping.com/)
 - [Revisiting the Basics of Domain-Driven Design](https://vladikk.com/2018/01/26/revisiting-the-basics-of-ddd/)
 
